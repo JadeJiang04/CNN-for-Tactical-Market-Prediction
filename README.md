@@ -107,13 +107,3 @@ tensorflow>=2.0
 scikit-learn
 kaggle
 ```
-
-## Future Improvements
-
-1. Try LSTM/Transformer architectures for better trend prediction
-2. Enhance feature engineering with more economic indicators
-3. Implement ensemble models for improved stability
-
----
-
-**Note**: This is an ICLR 2026 under-review project companion codebase.
